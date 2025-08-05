@@ -38,7 +38,7 @@ Training pipeline for PPE detection using RF-DETR transformer architecture on bi
 
 ## Training Plots
 
-![Training Results](WhatsApp%20Image%202025-08-04%20at%2012.10.37_6efc29ea.jpg)
+![Training Results](train_plot.jpg)
 *Training loss, validation loss, mAP@50, and mAP@50-95 curves*
 
 ## Model Checkpoint
