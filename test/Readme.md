@@ -34,6 +34,7 @@ The script will generate detection videos with:
 pip install torch torchvision
 pip install rfdetr supervision opencv-python numpy
 ```
+**[Some Inference runs on youtube videos](https://drive.google.com/drive/folders/1aSIzyxgywZf5gOOPL2c1CN2UbWGQ6Pae?usp=sharing)**
 
 ## Classes Detected
 
